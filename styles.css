@@ -1,0 +1,65 @@
+.button {
+  background-color: #32CD32;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.8;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.button2 {
+  background-color: #A020F0;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.8;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.button:hover {
+  opacity: 1;
+}
+.button2:hover {
+  opacity: 1;
+}
+
+h1 {
+  background-color: #FF80FF;
+  opacity: 80%;
+}
+h3 {
+  background-color: #FF80FF;
+  opacity: 80%;
+}
+h4 {
+  background-color: #FF80FF;
+  opacity: 80%;
+}
+body {
+  cursor: url("https://cdn.glitch.me/c15cc4d5-06d9-437b-8781-ce3b4e7d100b%2FNormal%20Select.cur?v=1635578193714"),
+    auto;
+}
+[class*="col-"] {
+  width: 100%;
+}
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+.marquee {
+  background-colour: #32CD32;
+  opacity: 80%;
+}
